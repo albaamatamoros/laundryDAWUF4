@@ -1,6 +1,7 @@
 # laundry management system
 # Hola, soc l'Alba
 # Hola, soc l'Alba x2
+# Alba Matamoros - Propietario :)
 ---
 ## Using Tech:
 
