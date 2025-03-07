@@ -1,3 +1,4 @@
+Pau Munoz Serra - Col·laborador
 # laundry management system
 # Hola, soc l'Alba
 # Hola, soc l'Alba x2
