@@ -1,3 +1,4 @@
+# Alba Matamoros Morales - Propietario
 Pau Munoz Serra - Col·laborador
 # laundry management system
 # Hola, soc l'Alba
