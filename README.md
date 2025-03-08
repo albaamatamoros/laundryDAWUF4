@@ -1,3 +1,4 @@
+# Soy Xavi -Col·laborador
 Pau Munoz Serra - Col·laborador
 # laundry management system
 # Hola, soc l'Alba
